@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "OlU3HbQhhpL6cPFikeE0g+WHFbWmuPY0+o6+XIdfuXo=",
+  "Source": "BackendAPIrest",
+  "BasePath": "_content/BackendAPIrest",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
